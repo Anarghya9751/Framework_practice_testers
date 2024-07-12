@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>BDDCucumberhybridframework</artifactId>
+=======
+    <artifactId>cucumberwithjavaproject</artifactId>
+>>>>>>> f0be3c547aa93ed3aa8d3eeb536710e679f51873
     <version>1.0-SNAPSHOT</version>
 
     <properties>
